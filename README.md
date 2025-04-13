@@ -28,14 +28,14 @@ I'm a passionate **Data Analyst / Business Analyst** with a knack for turning ra
 
 ## 📁 Projects
 
-### 1. 📈 *Healthcare Data Warehouse Proposal*  
-Proposed and presented a data warehouse solution to optimize patient record access and claims processing for a healthcare insurance company.
+### 1. 📈 *Emergency Room Utilization & Patient Flow Insights*  
+Built a Tableau dashboard analyzing 9,200+ ER visits, reducing wait time bottlenecks by identifying peak hours and patient demographics; supported a 15% improvement in resource planning and departmental referrals.
 
-### 2. 🍛 *Indian Cuisine Data Analysis*  
-Performed EDA on a dataset with regional Indian food preferences. Built visual dashboards showing flavor profiles, dietary requests, and regional KPIs.
+### 2. 🍛 *SmartDoc: Local RAG System for Dynamic Knowledge Access*  
+Built a local Retrieval-Augmented Generation (RAG) system using LLaMA 3.2, HuggingFace embeddings, and ChromaDB to enable natural language querying over custom documents—no SQL needed. The system retrieves contextually relevant information from a knowledge base and provides accurate responses.
 
-### 3. 🤖 *Disease Prediction using Machine Learning*  
-Built an ML model during internship using Python to predict disease likelihood based on symptoms. Focused on feature importance and patient health visualization.
+### 3. 🤖 *Retail Data Warehouse Implementation and BI Integration*  
+Built a retail data warehouse on Oracle Cloud with ETL pipelines using Apache HOP, integrating Power BI to deliver actionable insights for enhanced inventory and sales management.
 
 ### 4. 💊 *The Pill Poppers - Smart Medicine Dispenser*  
 Ideated and pitched an automated medicine dispenser for elderly patients to track doses and notify caregivers via app alerts.
@@ -62,7 +62,7 @@ I’m currently seeking **full-time opportunities** in **Data Analytics** or **B
 
 - 📍 Buffalo, NY | Open to Remote & Hybrid Roles  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sagar-naduvinkeri/)  
-- 📧 Email: sagarnaduvinkeri@gmail.com *(Replace with your actual email)*  
+- 📧 Email: sagarnaduvinkeri@gmail.com
 - 🌐 Portfolio:https://datascienceportfol.io/sagarnaduvinkeri
 
 ---
