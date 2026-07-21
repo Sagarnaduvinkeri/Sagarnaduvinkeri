@@ -1,111 +1,86 @@
-# 👋 Hi, I'm Sagar Naduvinkeri  
-### Analytics Engineer | Data Analyst | AI Implementation & AI Agents
+# 👋 Hi, I'm Sagar Naduvinkeri
+### Applied AI Engineer  |  AI Solutions Engineer
 
-I build **end-to-end analytics and AI solutions** that turn messy real-world data into **reliable insights, automated decisions, and production-ready intelligence**.
+I build **production AI agents that replace multi-day manual workflows** inside complex enterprise environments.
 
-With **3+ years of experience across analytics engineering, business intelligence, and applied AI**, I specialize in:
+Currently the sole AI lead at **Stark Carpet**, embedded across Finance, Credit, and Operations. I partner directly with the CEO and department heads to scope, build, and ship LLM-powered systems that real teams use every day.
 
-- Designing **scalable data pipelines & semantic models**
-- Delivering **executive-ready dashboards and KPI systems**
-- Building **AI agents, LLM workflows, and automation tools**
-- Translating business problems into **measurable impact**
-
-📍 Buffalo, NY | Open to **Full-time Analytics / AI Implementation roles** (Remote / Hybrid)
+📍 New York, NY  |  Open to **Applied AI Engineer / Solutions Engineer / Forward Deployed** roles at AI-native companies (remote, hybrid, or NYC on-site)
 
 ---
 
-# 🚀 What I Do
+## 🚀 What I Build
 
-### 📊 Analytics & Business Intelligence
-- Transform raw operational data into **decision-ready dashboards**
-- Design **KPI frameworks, forecasting models, and utilization analytics**
-- Deliver insights that drive **cost savings, planning, and optimization**
+### 🤖 Production AI Agents
+- Custom **Claude skills** for enterprise workflows in Finance, Credit, and Operations
+- **Multi-agent automations** integrating LLMs with CRM, ERP, and workflow tooling
+- **LLM-powered triage systems** that categorize, prioritize, and draft responses
 
-### 🤖 AI Implementation & AI Agents
-- Build **LLM-powered agents** for workflow automation, CRM updates, and knowledge retrieval  
-- Develop **local, secure AI applications** using open-source models  
-- Evaluate and improve **LLM accuracy, prompts, and training data quality**
+### 🔧 Enterprise Workflow Automation
+- End-to-end systems replacing multi-day manual processes
+- **Bank reconciliation**, **invoice matching**, and **email triage** in production today
+- Human-in-the-loop guardrails for anything touching billing, orders, or receivables
 
-### ⚙️ Data Engineering for Analytics
-- Create **ETL pipelines, cloud data models, and automated reporting systems**
-- Optimize SQL performance and ensure **data reliability at scale**
-- Ship **production-ready analytics products** with CI/CD and documentation
+### 🧠 The Method
+I never automate a process I haven't watched someone do manually first. **Diagnose before treatment.** Most enterprise AI failures aren't model failures, they're workflow-mapping failures. Teams skip the unglamorous phase, ship an impressive pilot that solves a demo, and wonder why nobody uses it.
 
 ---
 
-# 💼 Professional Impact
+## 📊 Impact at a Glance
 
-- Engineered ETL pipelines processing **millions of records daily**, reducing refresh latency **by 60%**
-- Built **AI agents automating 70% of manual marketing & CRM workflows**
-- Delivered **Power BI executive dashboards** generating **$420K in cost savings**
-- Analyzed **4.25M+ parking transactions**, identifying inefficiencies and **$90K annual savings**
-- Optimized enterprise SQL/reporting performance **by 40%** across global BI systems
-- Reduced critical ERP alerts **by 70%**, improving stability and uptime
+- Shipped **6+ production AI systems** across Finance, Credit, and Operations in first 90 days at Stark Carpet
+- **90% reduction** in manual invoice reconciliation work for the Product Purchasing team via a Claude API matching system
+- **~400 sales agents** now receive automated monthly commission reports — cycle time cut from 2 to 3 days down to under 30 minutes
+- Hours of manual monthly bank reconciliation eliminated via a **7-phase Claude skill** now owned end-to-end by Finance
+- **900+ inbound emails** empirically analyzed to design a credit-team triage agent running hourly in Outlook
 
----
-
-# 🧠 Core Skills
-
-### Programming & Data
-**Python, SQL, Bash, REST APIs, Data Modeling, ETL Pipelines**
-
-### Analytics & BI
-**Power BI (DAX, Power Query), Tableau, KPI Design, Forecasting, Dashboarding**
-
-### AI & Machine Learning
-**LLMs, Prompt Engineering, AI Agents, BQML Regression, Model Deployment, Inference Pipelines**
-
-### Cloud & Data Platforms
-**Google Cloud (BigQuery, Cloud Run), Snowflake, Oracle, AWS, OCI, Docker**
-
-### Tools & Workflow
-**Git, GitHub Actions, Streamlit, HubSpot APIs, ServiceNow, JIRA, Agile / ITIL**
+*Most of this work is proprietary — full details in the resume.*
 
 ---
 
-# 📂 Featured Projects
+## 🛠 Tech Stack
 
-### 📊 Parking Optimization & Forecasting Dashboard
-Analyzed **4.25M+ parking transactions** to uncover utilization trends, peak demand, and future volume forecasts—enabling **data-driven allocation strategy and annual cost savings**.
+**Applied AI / LLM**  ·  Claude (Sonnet, Opus)  ·  ChatGPT  ·  MCP  ·  Agent Design  ·  Prompt Engineering  ·  Evals (LLM-as-judge, golden datasets)  ·  RAG  ·  Claude Code  ·  Cursor
 
-### 🤖 AI Contract Analyzer (Local LLM App)
-Built a **secure, on-prem AI contract analysis tool** using **Streamlit + Mistral 7B + Ollama**, extracting legal risks and obligations without external APIs.
+**Programming & Data**  ·  Python  ·  SQL  ·  Bash  ·  BigQuery  ·  Snowflake  ·  Cloud SQL  ·  ETL Pipelines  ·  REST APIs
 
-🔗 Repo:  
-https://github.com/Sagarnaduvinkeri/AI-Contract-Analyzer
+**Automation & Integration**  ·  Power Automate  ·  SharePoint  ·  HubSpot APIs  ·  GitHub Actions  ·  Zapier  ·  CI/CD
 
-### 📈 Sales Forecasting with Macroeconomic Signals
-Developed regression-based forecasting improving **R² from 0.82 → 0.96**, enabling more reliable production and inventory planning.
+**Enterprise Systems**  ·  M3 ERP  ·  Microsoft 365  ·  Jira  ·  ServiceNow  ·  Streamlit  ·  Ollama
 
-### 🧠 AI Training & Evaluation
-Designed prompts, annotated datasets, and analyzed **LLM failure patterns**, improving **accuracy, contextual relevance, and human alignment**.
+**Cloud & DevOps**  ·  Google Cloud (BigQuery, Cloud Run)  ·  AWS  ·  Docker  ·  OCI
+
+**Analytics & BI**  ·  Power BI (DAX, Power Query)  ·  Tableau
 
 ---
 
-# 🎯 Career Focus
+## 📂 Featured Projects
 
-I’m currently targeting roles in:
+### 🤖 [AI Contract Analyzer](https://github.com/Sagarnaduvinkeri/AI-Contract-Analyzer)
+A local, on-prem AI contract analysis application built with **Python + Streamlit + Ollama + Mistral 7B**. Extracts obligations and risks from real-estate contracts with zero external API calls, keeping sensitive legal data inside the network.
 
-- **Analytics Engineer / Data Analyst / BI Analyst**
-- **AI Implementation Engineer / Applied AI / AI Agents**
-- **Data-driven product or operations analytics**
-
-Where I can combine:
-
-➡ **Analytics rigor**  
-➡ **Engineering scalability**  
-➡ **AI-powered automation**  
-➡ **Real business impact**
+*More public artifacts of enterprise AI patterns coming soon — building sanitized versions of the workflows I ship in production.*
 
 ---
 
-# 📫 Let’s Connect
+## 🎯 What I'm Looking For
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sagar-naduvinkeri/  
-- 📧 Email: sagarnaduvinkeri1@gmail.com  
-- 🌐 Portfolio: https://datascienceportfol.io/sagarnaduvinkeri  
-- 🧠 GitHub Projects: https://github.com/Sagarnaduvinkeri  
+Applied AI Engineer, Solutions Engineer, or Forward Deployed Engineer roles at **AI-native companies** — places where shipping production LLM systems for real customers is the job, not a side project.
+
+Especially interested in:
+- **Frontier AI labs** (Anthropic, OpenAI, Cohere, and similar)
+- **Enterprise AI transformation firms** operating at the intersection of applied AI and consulting
+- **Vertical AI startups** targeting mid-market and Fortune 500 enterprises
 
 ---
 
-⭐ *If my work resonates with you, feel free to explore my repositories or reach out — I’m always excited to collaborate on meaningful analytics and AI solutions.*
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sagar-naduvinkeri/)
+- 📧 sagarnaduvinkeri20@gmail.com
+- 🌐 [Portfolio](https://datascienceportfol.io/sagarnaduvinkeri)
+- 🧠 [GitHub](https://github.com/Sagarnaduvinkeri)
+
+---
+
+⭐ *Always happy to chat with people building in Applied AI — especially Solutions Engineers and FDEs at frontier labs. If the workflow-first thesis resonates, let's talk.*
